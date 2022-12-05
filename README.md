@@ -1,23 +1,41 @@
-# Nextra Docs Template 
+# Website
+Website Portfolio
 
-This is a template for creating documentation with [Nextra](https://nextra.site).
 
-[**Live Demo →**](https://nextra-docs-template.vercel.app)
+## Description
+A web application created using TypeScript and MDX
 
-[![](.github/screenshot.png)](https://nextra-docs-template.vercel.app)
 
-## Quick Start
+## Getting Started
+### Dependencies
+* Ensure intended browser of use is updated to most recent version. Google Chrome or Mozilla Firefox is preferred.
+* The package manager [npm](https://www.npmjs.com/) along with [npx](https://nodejs.dev/learn/the-npx-nodejs-package-runner) are installed.
 
-Click the button to clone this repository and deploy it on Vercel:
 
-[![](https://vercel.com/button)](https://vercel.com/new/clone?s=https%3A%2F%2Fgithub.com%2Fshuding%2Fnextra-docs-template&showOptionalTeamCreation=false)
+### Installation
+Create a new folder and run the following commands in terminal. <br>
+``` 
+git clone https://github.com/jdinh-782/website-portfolio.git
 
-## Local Development
+npm install
+```
 
-First, run `npm install` to install the dependencies.
 
-Then, run `npm run dev` to start the development server and visit localhost:3000.
+### Execution
+Assuming all packages and dependencies are installed correctly, you may build and run the program with the following commands: 
+```
+npm run dev
+```
 
-## License
 
-This project is licensed under the MIT License.
+## Help
+For any concerns, feel free to reach out by [email](mailto:dinhjd@uci.edu?subject=[GitHub]%20Source%20Han%20Sans).
+
+
+## Authors and Contributors
+[Johnson Dinh](https://www.linkedin.com/in/johnson-dinh/)
+
+
+## Acknowledgements
+[Vercel](https://vercel.com/) <br>
+[Nextra](https://nextra.site/)
