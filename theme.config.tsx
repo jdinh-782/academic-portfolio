@@ -16,6 +16,7 @@ const config: DocsThemeConfig = {
               <p>Copyright © Johnson Dinh</p>
           </div>,
   },
+  faviconGlyph: "J",
 }
 
 export default config
