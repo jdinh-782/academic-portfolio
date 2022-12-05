@@ -1,7 +1,7 @@
 import React from 'react'
 import { DocsThemeConfig } from 'nextra-theme-docs'
 
-const config: DocsThemeConfig = {
+export default {
   logo: <span>Johnson Dinh</span>,
   project: {
     link: 'https://github.com/jdinh-782/website-portfolio',
@@ -18,5 +18,3 @@ const config: DocsThemeConfig = {
   },
   faviconGlyph: "J",
 }
-
-export default config
