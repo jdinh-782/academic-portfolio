@@ -5,7 +5,7 @@ Website Portfolio
 
 
 ## Description
-A web application created using TypeScript and MDX
+A web portfolio application created using TypeScript, MDX, and React libraries.
 
 
 ## Getting Started
