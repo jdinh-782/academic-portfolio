@@ -1,6 +1,8 @@
 # Website
 Website Portfolio
 
+![Homepage](/images/homepage.png)
+
 
 ## Description
 A web application created using TypeScript and MDX
