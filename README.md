@@ -1,9 +1,6 @@
 # Website
 Website Portfolio
 
-![Homepage](/images/homepage.png)
-
-
 ## Description
 A web portfolio application created using TypeScript, MDX, and React libraries.
 
