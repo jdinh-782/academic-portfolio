@@ -1,8 +1,7 @@
-# Website
-Website Portfolio
+# Academic Portfolio
 
 ## Description
-A web portfolio application created using TypeScript, MDX, and React libraries.
+A web application to host academic portfolio.
 
 
 ## Getting Started
@@ -12,9 +11,9 @@ A web portfolio application created using TypeScript, MDX, and React libraries.
 
 
 ### Installation
-Create a new folder and run the following commands in terminal. <br>
+Now, run the following commands in terminal. <br>
 ``` 
-git clone https://github.com/jdinh-782/website-portfolio.git
+git clone https://github.com/jdinh-782/academic-portfolio.git
 
 npm install
 ```
@@ -28,7 +27,7 @@ npm run dev
 
 
 ## Help
-For any concerns, feel free to reach out by [email](mailto:dinhjd@uci.edu?subject=[GitHub]%20Source%20Han%20Sans).
+For any concerns, feel free to reach out by [email](mailto:jdinhbus@gmail.com?subject=[GitHub]%20Source%20Han%20Sans).
 
 
 ## Authors and Contributors
