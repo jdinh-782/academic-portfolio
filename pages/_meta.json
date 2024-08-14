@@ -1,9 +1,7 @@
 {
   "index": "Home",
-  "experience": "Experience",
   "academia": "Academia",
   "projects": "Projects",
-  "hobbies": "Hobbies",
   "about": {
     "title": "About",
     "type": "page"

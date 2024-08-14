@@ -1,5 +1,5 @@
 import React from 'react'
-import { DocsThemeConfig } from 'nextra-theme-docs'
+
 
 export default {
   logo: <span>Johnson Dinh</span>,
