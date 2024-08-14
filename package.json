@@ -1,7 +1,7 @@
 {
   "name": "academic-portfolio",
-  "version": "0.0.1",
-  "description": "Nextra docs template",
+  "version": "1.0.0",
+  "description": "Johnson's academic portfolio website.",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/shuding/nextra-docs-template.git"
+    "url": "git+https://github.com/jdinh-782/academic-portfolio"
   },
-  "author": "Shu Ding <g@shud.in>",
+  "author": "Johnson Dinh <jdinhbus@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/shuding/nextra-docs-template/issues"
+    "url": "https://github.com/jdinh-782/academic-portfolio/issues"
   },
-  "homepage": "https://github.com/shuding/nextra-docs-template#readme",
+  "homepage": "https://github.com/jdinh-782/academic-portfolio/blob/main/README.md",
   "dependencies": {
     "next": "^13.0.6",
     "next-seo": "^5.15.0",

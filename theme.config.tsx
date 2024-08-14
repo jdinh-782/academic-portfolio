@@ -4,7 +4,7 @@ import React from 'react'
 export default {
   logo: <span>Johnson Dinh</span>,
   project: {
-    link: 'https://github.com/jdinh-782/website-portfolio',
+    link: 'https://github.com/jdinh-782/academic-portfolio',
   },
   chat: {
     link: "https://www.linkedin.com/in/johnson-dinh/",

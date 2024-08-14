@@ -7,7 +7,7 @@ A web portfolio application created using TypeScript, MDX, and React libraries.
 
 ## Getting Started
 ### Dependencies
-* Ensure intended browser of use is updated to most recent version. Google Chrome or Mozilla Firefox is preferred.
+* Ensure intended browser of use is updated to most recent version.
 * The package manager [npm](https://www.npmjs.com/) along with [npx](https://nodejs.dev/learn/the-npx-nodejs-package-runner) are installed.
 
 
