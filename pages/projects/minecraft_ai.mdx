@@ -1,0 +1,48 @@
+# Minecraft Ai
+
+
+## Description
+In this project, a reinforcement learning (RL) agent is developed to navigate a challenging race track within a Minecraft world. The environment is created using the Malmo Framework, a powerful tool that enables AI experimentation within the Minecraft universe.
+
+The core objective is to train the agent to complete the race track within a specified timeframe. The track is deliberately designed with obstacles and boundaries to increase the complexity of the task, requiring the agent to consistently learn and refine its pathing strategies.
+
+The agent is trained using the Epsilon-Greedy Q-learning algorithm, a popular RL technique that balances exploration of new paths with the exploitation of known successful strategies. Epsilon-Greedy allows the agent to initially explore the environment extensively, experimenting with different actions to discover the most efficient routes. As the training progresses, the agent increasingly exploits the best-known paths, fine-tuning its behavior to minimize the time taken to complete the track.
+
+The obstacles and boundaries in the race track serve as crucial learning points for the agent, forcing it to adapt and overcome challenges that mimic real-world decision-making scenarios. These features ensure that the agent's learning process is robust, allowing it to handle a variety of situations and refine its strategy with each run.
+
+Over time, the agent learns the optimal path to navigate the track, efficiently avoiding obstacles and adhering to the boundaries. The goal is to reach a level of performance where the agent can consistently complete the race within the desired timeframe, demonstrating a deep understanding of the environment and the ability to apply learned strategies effectively.
+
+https://github.com/jdinh-782/minecraft-ai
+
+
+## Technologies
+import React from 'react'
+import { 
+    SiPython,
+    SiJupyter,
+    SiNumpy,
+    SiPandas,
+    SiGithub
+} from "react-icons/si";
+
+<div>
+    <a href="https://www.python.org/" target="_blank" style={{display: 'inline-block', marginRight: '10px'}}>
+        <SiPython size={40} />
+    </a>
+
+    <a href="https://jupyter.org/" target="_blank" style={{display: 'inline-block', marginRight: '10px'}}>
+        <SiJupyter size={40} />
+    </a>
+
+    <a href="https://numpy.org/" target="_blank" style={{display: 'inline-block', marginRight: '10px'}}>
+        <SiNumpy size={40} />
+    </a>
+
+    <a href="https://pandas.pydata.org/" target="_blank" style={{display: 'inline-block', marginRight: '10px'}}>
+        <SiPandas size={40} />
+    </a>
+
+    <a href="https://github.com/" target="_blank" style={{display: 'inline-block', marginRight: '10px'}}>
+        <SiGithub size={40} />
+    </a>
+</div>
